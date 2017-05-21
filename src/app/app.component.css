@@ -1,0 +1,7 @@
+/* basic elements */
+body { background: url(../assets/bgFull.gif) repeat-x #6F715C; font: normal 11px/16px Tahoma, Verdana, Arial, sans-serif; color: #333; margin: 0px;	}
+h3 { font: italic normal 12pt Tahoma, Verdana, Arial, sans-serif; letter-spacing: 1px; margin-bottom: 0px; color: #7D775C;}
+a:link { font-weight: normal; text-decoration: underline; color: #4F8CC3;}
+a:visited { font-weight: normal; text-decoration: underline; color: #1D3F64;}
+a:hover, a:active { text-decoration:none ; color: #346293;}
+abbr {font-weight:bold;}
